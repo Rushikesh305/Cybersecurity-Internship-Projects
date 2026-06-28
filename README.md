@@ -28,6 +28,7 @@ Perform a vulnerability assessment on a deliberately vulnerable web application 
 ## Files Included
 
 * `zap_report.html` – OWASP ZAP HTML report
+* summary.png
 
 ## Conclusion
 
